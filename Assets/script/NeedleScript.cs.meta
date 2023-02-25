@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 226fdc887463c074097cb03413be9d9b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - targetObject: {instanceID: 0}
+  - LowFields: {instanceID: 0}
+  - MidFields: {instanceID: 0}
+  - HighFields: {instanceID: 0}
+  - LowBlocks: {fileID: 3405348204459066473, guid: 2252f203683e79d488ee75c6a9cfc828, type: 3}
+  - MidBlocks: {fileID: 8324006668663168835, guid: bc4af6fb1cbf6cf4b8a3f21cf0fd4821, type: 3}
+  - HighBlocks: {fileID: 1717279845657687922, guid: aac5af50a3b8436429bb0886e1ac6af6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
